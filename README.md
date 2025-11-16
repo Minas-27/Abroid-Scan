@@ -1,5 +1,3 @@
----
-
 # **Abroid Scan 📱**
 
 A simple, fast, and fully offline **OCR (Optical Character Recognition)** mobile app built with **Flutter**.
@@ -138,5 +136,3 @@ Try it out and share your feedback — it helps improve the app!
 ---
 
 **⭐ If you find this project useful, please consider giving it a star!**
-
----
