@@ -1,3 +1,4 @@
+```markdown
 # Abroid Scan 📱
 
 A simple, fast, and offline OCR (Optical Character Recognition) mobile app built with Flutter. Turn any image into text instantly—built for daily use.
@@ -25,32 +26,33 @@ A simple, fast, and offline OCR (Optical Character Recognition) mobile app built
 ### Installation
 
 1. **Clone the repository:**
-git clone https://github.com/Minas-27/Abroid-Scan.git
-cd Abroid-Scan
-
-text
+   ```
+   git clone https://github.com/Minas-27/Abroid-Scan.git
+   cd Abroid-Scan
+   ```
 
 2. **Install dependencies:**
-flutter pub get
-
-text
+   ```
+   flutter pub get
+   ```
 
 3. **Run the app:**
-flutter run
-
-text
+   ```
+   flutter run
+   ```
 
 ---
 
 ## 📦 Dependencies
 
+```
 dependencies:
-image_picker: ^1.2.1
-google_mlkit_text_recognition: ^0.15.0
-google_fonts: ^6.1.0
-shared_preferences: ^2.2.2
-share_plus: ^7.2.1
-
+  image_picker: ^1.2.1
+  google_mlkit_text_recognition: ^0.15.0
+  google_fonts: ^6.1.0
+  shared_preferences: ^2.2.2
+  share_plus: ^7.2.1
+```
 
 ---
 
@@ -65,8 +67,6 @@ share_plus: ^7.2.1
 ## 📱 Download APK
 
 👉 [Download Latest Version](https://drive.google.com/file/d/1wL953dwmwhPKo-dSOtDMQ9GYsjAIedKs/view?usp=sharing)
-
-> Add your Google Drive APK link here once you build and upload it
 
 ---
 
@@ -105,10 +105,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👤 Author
 
-**Minas**
+**Minas (Abraham Addisu)**
 
 - GitHub: [@Minas-27](https://github.com/Minas-27)
-- LinkedIn: [Your LinkedIn Profile](www.linkedin.com/in/abraham-addisu-b39b08338)
+- LinkedIn: [Abraham Addisu](https://www.linkedin.com/in/abraham-addisu-b39b08338)
 
 ---
 
@@ -127,3 +127,6 @@ Try it out and feel free to give any feedback! Built this for real-world use, so
 ---
 
 **⭐ If you find this project useful, please give it a star!**
+```
+
+***
